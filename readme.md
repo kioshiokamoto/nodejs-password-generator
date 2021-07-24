@@ -1,4 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![nodejs-password-generator](https://socialify.git.ci/kioshiokamoto/nodejs-password-generator/image?description=1&descriptionEditable=Aplicaci%C3%B3n%20generadora%20de%20contrase%C3%B1as&font=Source%20Code%20Pro&language=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
 # Password generator app
 
@@ -10,7 +10,7 @@ Aplicacion para generar contraseñas seguras
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/kioshiokamoto/nodejs-password-generator/blob/main/preview.JPG?raw=true)
 
 ## Ejecutar localmente
 
