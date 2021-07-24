@@ -17,13 +17,13 @@ Aplicacion para generar contraseñas seguras
 Clonar proyecto
 
 ```bash
-  git clone https://github.com/kioshiokamoto/nextjs-jamstack-todo
+  git clone https://github.com/kioshiokamoto/nodejs-password-generator
 ```
 
 Ir a ruta de proyecto
 
 ```bash
-  cd nextjs-jamstack-todo
+  cd nodejs-password-generator
 ```
 
 Instalar dependencias
@@ -35,7 +35,5 @@ Instalar dependencias
 Iniciar servidor
 
 ```bash
-  npm run start
+  node app -h
 ```
-
-node app -h
